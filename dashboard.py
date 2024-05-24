@@ -12,7 +12,7 @@ with st.sidebar:
     st.write('''
 Nama: Aisya Rahma Rabbania \n
 Email: aisyarahmar06@gmail.com \n
-ID Dicoding: aisyarahmar''')
+''')
 
 #tabel keterangan
 season_data = {'Season': [1, 2, 3, 4],
